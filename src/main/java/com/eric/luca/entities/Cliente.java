@@ -4,6 +4,8 @@ public class Cliente extends Persona {
 	
 	String email;
 
+	
+
 	public Cliente(int id, String nombre, String email) {
 		super(id, nombre);
 		this.email = email;
